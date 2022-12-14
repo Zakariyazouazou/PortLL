@@ -8,6 +8,7 @@ import Snake from '../assets/projects/Snak.png'
 import calculator from '../assets/projects/Calculater.png'
 import bird from '../assets/projects/bird.png'
 import Xo from '../assets/projects/XO.png'
+import Word from '../assets/projects/word.png'
 
 export const data=[
    
@@ -22,8 +23,15 @@ export const data=[
         id:1,
         name:"Comerce project",
         image:WorkIm,
-        github:"https://github.com/Zakariyazouazou/commerce",
-        live:"https://zakariyazouazou.github.io/commerce/",
+        github:"https://github.com/Zakariyazouazou/Comerce12",
+        live:"https://Zakariyazouazou.github.io/Comerce12",
+    },
+    {
+        id:1,
+        name:"WordPress",
+        image:Word,
+        github:"https://github.com/Zakariyazouazou/WordPress",
+        live:"https://Zakariyazouazou.github.io/WordPress",
     },
     {
         id:10,

@@ -13,8 +13,8 @@ function App() {
       <Home />
       <About />
       <Skills />
+
       <Work />
-      <div className="pt-5"/>
       <Contact />
     </div>
   );
